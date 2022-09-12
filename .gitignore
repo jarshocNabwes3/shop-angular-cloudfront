@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Serverless Framework state and generated CloudFormation stacks
+/.serverless
